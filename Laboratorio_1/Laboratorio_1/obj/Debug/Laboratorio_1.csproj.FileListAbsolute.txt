@@ -1,0 +1,7 @@
+C:\Users\Tomas Bruner\Desktop\laboratorio-01-TomasBruner\Laboratorio_1\Laboratorio_1\bin\Debug\Laboratorio_1.exe.config
+C:\Users\Tomas Bruner\Desktop\laboratorio-01-TomasBruner\Laboratorio_1\Laboratorio_1\bin\Debug\Laboratorio_1.exe
+C:\Users\Tomas Bruner\Desktop\laboratorio-01-TomasBruner\Laboratorio_1\Laboratorio_1\bin\Debug\Laboratorio_1.pdb
+C:\Users\Tomas Bruner\Desktop\laboratorio-01-TomasBruner\Laboratorio_1\Laboratorio_1\obj\Debug\Laboratorio_1.csprojAssemblyReference.cache
+C:\Users\Tomas Bruner\Desktop\laboratorio-01-TomasBruner\Laboratorio_1\Laboratorio_1\obj\Debug\Laboratorio_1.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Bruner\Desktop\laboratorio-01-TomasBruner\Laboratorio_1\Laboratorio_1\obj\Debug\Laboratorio_1.exe
+C:\Users\Tomas Bruner\Desktop\laboratorio-01-TomasBruner\Laboratorio_1\Laboratorio_1\obj\Debug\Laboratorio_1.pdb
