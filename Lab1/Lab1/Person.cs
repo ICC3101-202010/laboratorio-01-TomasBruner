@@ -8,8 +8,8 @@ namespace Lab1
 {
     public class Person
     {
-        public string Name;
-        public string LastName;
+        private string Name;
+        private string LastName;
 
         public int Lanzar()
         {
@@ -18,10 +18,20 @@ namespace Lab1
             return lanzar;
         }
 
-        public Person()
+        public Person(string InputName, string InputLastName)
         {
-            this.Name = "Bob";
-            this.LastName = "Kunga";
+            Name = InputName;
+            LastName = InputLastName;
+        }
+
+        public string GetName()
+        {
+            return Name;
+        }
+
+        public string GetLastName()
+        {
+            return LastName;
         }
 
 
