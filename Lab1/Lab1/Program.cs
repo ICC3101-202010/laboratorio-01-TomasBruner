@@ -10,9 +10,10 @@ namespace Lab1
     {
         static void Main(string[] args)
         {
-            Random lanzar = new Random();
+            Person p1 = new Person();
 
-            Console.WriteLine("cachipun " + lanzar.Next(0, 3));
+            Console.WriteLine(p1.Lanzar());
+            Console.WriteLine(p1.Name + " " + p1.LastName);
             Console.ReadKey();
         }
     }
